@@ -1,0 +1,57 @@
+D:\Module\FileToos\Sino.Dal\bin\Debug\Sino.Dal.dll
+D:\Module\FileToos\Sino.Dal\bin\Debug\Sino.Dal.pdb
+D:\Module\FileToos\Sino.Dal\bin\Debug\Sino.Model.dll
+D:\Module\FileToos\Sino.Dal\bin\Debug\Sino.Model.pdb
+D:\Module\FileToos\Sino.Dal\obj\Debug\ResolveAssemblyReference.cache
+D:\Module\FileToos\Sino.Dal\obj\Debug\Sino.Dal.dll
+D:\Module\FileToos\Sino.Dal\obj\Debug\Sino.Dal.pdb
+E:\project\FileToos\Sino.Dal\bin\Debug\Sino.Dal.dll
+E:\project\FileToos\Sino.Dal\bin\Debug\Sino.Dal.pdb
+E:\project\FileToos\Sino.Dal\bin\Debug\Sino.Model.dll
+E:\project\FileToos\Sino.Dal\bin\Debug\Sino.Model.pdb
+E:\project\FileToos\Sino.Dal\obj\Debug\Sino.Dal.csprojResolveAssemblyReference.cache
+E:\project\FileToos\Sino.Dal\obj\Debug\Sino.Dal.dll
+E:\project\FileToos\Sino.Dal\obj\Debug\Sino.Dal.pdb
+D:\FileToos\Sino.Dal\bin\Debug\Sino.Dal.dll
+D:\FileToos\Sino.Dal\bin\Debug\Sino.Dal.pdb
+D:\FileToos\Sino.Dal\bin\Debug\Sino.Model.dll
+D:\FileToos\Sino.Dal\bin\Debug\Sino.Model.pdb
+D:\FileToos\Sino.Dal\obj\Debug\ResolveAssemblyReference.cache
+D:\FileToos\Sino.Dal\obj\Debug\Sino.Dal.dll
+D:\FileToos\Sino.Dal\obj\Debug\Sino.Dal.pdb
+D:\project\FileToos\Sino.Dal\bin\Debug\Sino.Dal.dll
+D:\project\FileToos\Sino.Dal\bin\Debug\Sino.Dal.pdb
+D:\project\FileToos\Sino.Dal\bin\Debug\Sino.Model.dll
+D:\project\FileToos\Sino.Dal\bin\Debug\Sino.Model.pdb
+D:\project\FileToos\Sino.Dal\obj\Debug\Sino.Dal.dll
+D:\project\FileToos\Sino.Dal\obj\Debug\Sino.Dal.pdb
+D:\project\FileToos\Sino.Dal\obj\Debug\Sino.Dal.csprojResolveAssemblyReference.cache
+F:\新建文件夹 (2)\FileToos\Sino.Dal\bin\Debug\Sino.Dal.dll
+F:\新建文件夹 (2)\FileToos\Sino.Dal\bin\Debug\Sino.Dal.pdb
+F:\新建文件夹 (2)\FileToos\Sino.Dal\bin\Debug\Sino.Model.dll
+F:\新建文件夹 (2)\FileToos\Sino.Dal\bin\Debug\Sino.Model.pdb
+F:\新建文件夹 (2)\FileToos\Sino.Dal\obj\Debug\Sino.Dal.csprojResolveAssemblyReference.cache
+F:\新建文件夹 (2)\FileToos\Sino.Dal\obj\Debug\Sino.Dal.dll
+F:\新建文件夹 (2)\FileToos\Sino.Dal\obj\Debug\Sino.Dal.pdb
+E:\DataManager\FileToos\Sino.Dal\bin\Debug\Sino.Dal.dll
+E:\DataManager\FileToos\Sino.Dal\bin\Debug\Sino.Dal.pdb
+E:\DataManager\FileToos\Sino.Dal\bin\Debug\Sino.Model.dll
+E:\DataManager\FileToos\Sino.Dal\bin\Debug\Sino.Model.pdb
+E:\DataManager\FileToos\Sino.Dal\obj\Debug\Sino.Dal.csprojResolveAssemblyReference.cache
+E:\DataManager\FileToos\Sino.Dal\obj\Debug\Sino.Dal.dll
+E:\DataManager\FileToos\Sino.Dal\obj\Debug\Sino.Dal.pdb
+D:\FileToos最新\Sino.Dal\bin\Debug\Sino.Dal.dll
+D:\FileToos最新\Sino.Dal\bin\Debug\Sino.Dal.pdb
+D:\FileToos最新\Sino.Dal\bin\Debug\Sino.Model.dll
+D:\FileToos最新\Sino.Dal\bin\Debug\Sino.Model.pdb
+D:\FileToos最新\Sino.Dal\obj\Debug\Sino.Dal.csprojResolveAssemblyReference.cache
+D:\FileToos最新\Sino.Dal\obj\Debug\Sino.Dal.csproj.CoreCompileInputs.cache
+D:\FileToos最新\Sino.Dal\obj\Debug\Sino.Dal.dll
+D:\FileToos最新\Sino.Dal\obj\Debug\Sino.Dal.pdb
+D:\20171123\FileToos最新\Sino.Dal\bin\Debug\Sino.Dal.dll
+D:\20171123\FileToos最新\Sino.Dal\bin\Debug\Sino.Dal.pdb
+D:\20171123\FileToos最新\Sino.Dal\bin\Debug\Sino.Model.dll
+D:\20171123\FileToos最新\Sino.Dal\bin\Debug\Sino.Model.pdb
+D:\20171123\FileToos最新\Sino.Dal\obj\Debug\Sino.Dal.csprojResolveAssemblyReference.cache
+D:\20171123\FileToos最新\Sino.Dal\obj\Debug\Sino.Dal.dll
+D:\20171123\FileToos最新\Sino.Dal\obj\Debug\Sino.Dal.pdb

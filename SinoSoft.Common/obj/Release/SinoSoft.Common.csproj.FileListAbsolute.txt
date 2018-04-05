@@ -1,0 +1,8 @@
+D:\Module\FileUpDateTools\SinoSoft.Common\bin\Release\SinoSoft.Common.dll
+D:\Module\FileUpDateTools\SinoSoft.Common\bin\Release\SinoSoft.Common.pdb
+D:\Module\FileUpDateTools\SinoSoft.Common\bin\Release\SinoSoft.Utils.dll
+D:\Module\FileUpDateTools\SinoSoft.Common\bin\Release\SinoSoft.Utils.pdb
+D:\Module\FileUpDateTools\SinoSoft.Common\obj\Release\ResolveAssemblyReference.cache
+D:\Module\FileUpDateTools\SinoSoft.Common\obj\Release\SinoSoft.Common.csproj.ResolveComReference.cache
+D:\Module\FileUpDateTools\SinoSoft.Common\obj\Release\SinoSoft.Common.dll
+D:\Module\FileUpDateTools\SinoSoft.Common\obj\Release\SinoSoft.Common.pdb

@@ -1,0 +1,251 @@
+D:\Module\FileToos\FileToos\bin\Debug\FileTools.exe.config
+D:\Module\FileToos\FileToos\obj\x86\Debug\FileTools.csproj.ResolveComReference.cache
+D:\Module\FileToos\FileToos\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Module\FileToos\FileToos\obj\x86\Debug\FileToos.BaseForm.resources
+D:\Module\FileToos\FileToos\obj\x86\Debug\FileToos.BaseIndex.resources
+D:\Module\FileToos\FileToos\obj\x86\Debug\FileToos.FormLogin.resources
+D:\Module\FileToos\FileToos\obj\x86\Debug\FileTools.Properties.Resources.resources
+D:\Module\FileToos\FileToos\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Module\FileToos\FileToos\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Module\FileToos\FileToos\bin\Debug\FileTools.exe
+D:\Module\FileToos\FileToos\bin\Debug\FileTools.pdb
+D:\Module\FileToos\FileToos\bin\Debug\IrisSkin4.dll
+D:\Module\FileToos\FileToos\bin\Debug\Sino.Bll.dll
+D:\Module\FileToos\FileToos\bin\Debug\Sino.Common.dll
+D:\Module\FileToos\FileToos\bin\Debug\Sino.Model.dll
+D:\Module\FileToos\FileToos\bin\Debug\Sino.Dal.dll
+D:\Module\FileToos\FileToos\bin\Debug\Sino.Bll.pdb
+D:\Module\FileToos\FileToos\bin\Debug\Sino.Common.pdb
+D:\Module\FileToos\FileToos\bin\Debug\Sino.Model.pdb
+D:\Module\FileToos\FileToos\bin\Debug\Sino.Dal.pdb
+D:\Module\FileToos\FileToos\obj\x86\Debug\FileTools.exe
+D:\Module\FileToos\FileToos\obj\x86\Debug\FileTools.pdb
+E:\project\FileToos\FileToos\obj\x86\Debug\FileTools.csprojResolveAssemblyReference.cache
+E:\project\FileToos\FileToos\obj\x86\Debug\FileTools.exe
+E:\project\FileToos\FileToos\obj\x86\Debug\FileTools.pdb
+E:\project\FileToos\FileToos\bin\Debug\FileTools.exe.config
+E:\project\FileToos\FileToos\bin\Debug\FileTools.exe
+E:\project\FileToos\FileToos\bin\Debug\FileTools.pdb
+E:\project\FileToos\FileToos\bin\Debug\IrisSkin4.dll
+E:\project\FileToos\FileToos\bin\Debug\Sino.Bll.dll
+E:\project\FileToos\FileToos\bin\Debug\Sino.Common.dll
+E:\project\FileToos\FileToos\bin\Debug\Sino.Model.dll
+E:\project\FileToos\FileToos\bin\Debug\Sino.Dal.dll
+E:\project\FileToos\FileToos\bin\Debug\Sino.Bll.pdb
+E:\project\FileToos\FileToos\bin\Debug\Sino.Common.pdb
+E:\project\FileToos\FileToos\bin\Debug\Sino.Model.pdb
+E:\project\FileToos\FileToos\bin\Debug\Sino.Dal.pdb
+E:\project\FileToos\FileToos\obj\x86\Debug\Interop.Office.dll
+E:\project\FileToos\FileToos\obj\x86\Debug\FileTools.csproj.ResolveComReference.cache
+E:\project\FileToos\FileToos\obj\x86\Debug\FileToos.BaseForm.resources
+E:\project\FileToos\FileToos\obj\x86\Debug\FileToos.BaseIndex.resources
+E:\project\FileToos\FileToos\obj\x86\Debug\FileToos.FormLogin.resources
+E:\project\FileToos\FileToos\obj\x86\Debug\FileTools.Properties.Resources.resources
+E:\project\FileToos\FileToos\obj\x86\Debug\FileTools.csproj.GenerateResource.Cache
+D:\FileToos\FileToos\bin\Debug\FileTools.exe.config
+D:\FileToos\FileToos\obj\x86\Debug\FileTools.csproj.ResolveComReference.cache
+D:\FileToos\FileToos\obj\x86\Debug\FileTools.exe
+D:\FileToos\FileToos\obj\x86\Debug\FileTools.pdb
+D:\FileToos\FileToos\bin\Debug\FileTools.exe
+D:\FileToos\FileToos\bin\Debug\FileTools.pdb
+D:\FileToos\FileToos\bin\Debug\IrisSkin4.dll
+D:\FileToos\FileToos\bin\Debug\Sino.Bll.dll
+D:\FileToos\FileToos\bin\Debug\Sino.Common.dll
+D:\FileToos\FileToos\bin\Debug\Sino.Model.dll
+D:\FileToos\FileToos\bin\Debug\Sino.Dal.dll
+D:\FileToos\FileToos\bin\Debug\Sino.Bll.pdb
+D:\FileToos\FileToos\bin\Debug\Sino.Common.pdb
+D:\FileToos\FileToos\bin\Debug\Sino.Model.pdb
+D:\FileToos\FileToos\bin\Debug\Sino.Dal.pdb
+D:\FileToos\FileToos\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FileToos\FileToos\obj\x86\Debug\FileToos.BaseForm.resources
+D:\FileToos\FileToos\obj\x86\Debug\FileToos.BaseIndex.resources
+D:\FileToos\FileToos\obj\x86\Debug\FileToos.FormLogin.resources
+D:\FileToos\FileToos\obj\x86\Debug\FileTools.Properties.Resources.resources
+D:\FileToos\FileToos\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FileToos\FileToos\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FileToos\FileToos\obj\x86\Debug\FileTools.Formtest.resources
+D:\FileToos\FileToos\bin\Debug\ProgressODoom.dll
+D:\project\FileToos\FileToos\bin\Debug\FileTools.exe.config
+D:\project\FileToos\FileToos\obj\x86\Debug\FileTools.csproj.ResolveComReference.cache
+D:\project\FileToos\FileToos\obj\x86\Debug\FileTools.exe
+D:\project\FileToos\FileToos\obj\x86\Debug\FileTools.pdb
+D:\project\FileToos\FileToos\bin\Debug\FileTools.exe
+D:\project\FileToos\FileToos\bin\Debug\FileTools.pdb
+D:\project\FileToos\FileToos\bin\Debug\IrisSkin4.dll
+D:\project\FileToos\FileToos\bin\Debug\ProgressODoom.dll
+D:\project\FileToos\FileToos\bin\Debug\Sino.Bll.dll
+D:\project\FileToos\FileToos\bin\Debug\Sino.Common.dll
+D:\project\FileToos\FileToos\bin\Debug\Sino.Model.dll
+D:\project\FileToos\FileToos\bin\Debug\Sino.Dal.dll
+D:\project\FileToos\FileToos\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\project\FileToos\FileToos\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\project\FileToos\FileToos\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+D:\project\FileToos\FileToos\bin\Debug\office.dll
+D:\project\FileToos\FileToos\bin\Debug\Sino.Bll.pdb
+D:\project\FileToos\FileToos\bin\Debug\Sino.Common.pdb
+D:\project\FileToos\FileToos\bin\Debug\Sino.Model.pdb
+D:\project\FileToos\FileToos\bin\Debug\Sino.Dal.pdb
+D:\project\FileToos\FileToos\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\project\FileToos\FileToos\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\project\FileToos\FileToos\bin\Debug\office.xml
+D:\project\FileToos\FileToos\obj\x86\Debug\FileToos.BaseForm.resources
+D:\project\FileToos\FileToos\obj\x86\Debug\FileToos.BaseIndex.resources
+D:\project\FileToos\FileToos\obj\x86\Debug\FileToos.FormLogin.resources
+D:\project\FileToos\FileToos\obj\x86\Debug\FileTools.Formtest.resources
+D:\project\FileToos\FileToos\obj\x86\Debug\FileTools.Properties.Resources.resources
+D:\project\FileToos\FileToos\obj\x86\Debug\FileTools.csprojResolveAssemblyReference.cache
+D:\project\FileToos\FileToos\obj\x86\Debug\FileTools.csproj.GenerateResource.Cache
+D:\project\FileToos\FileToos\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\新建文件夹 (2)\FileToos\FileToos\bin\Debug\FileTools.exe.config
+F:\新建文件夹 (2)\FileToos\FileToos\obj\x86\Debug\FileTools.csproj.ResolveComReference.cache
+F:\新建文件夹 (2)\FileToos\FileToos\obj\x86\Debug\FileTools.exe
+F:\新建文件夹 (2)\FileToos\FileToos\obj\x86\Debug\FileTools.pdb
+F:\新建文件夹 (2)\FileToos\FileToos\bin\Debug\FileTools.exe
+F:\新建文件夹 (2)\FileToos\FileToos\bin\Debug\FileTools.pdb
+F:\新建文件夹 (2)\FileToos\FileToos\bin\Debug\IrisSkin4.dll
+F:\新建文件夹 (2)\FileToos\FileToos\bin\Debug\ProgressODoom.dll
+F:\新建文件夹 (2)\FileToos\FileToos\bin\Debug\Sino.Bll.dll
+F:\新建文件夹 (2)\FileToos\FileToos\bin\Debug\Sino.Common.dll
+F:\新建文件夹 (2)\FileToos\FileToos\bin\Debug\Sino.Model.dll
+F:\新建文件夹 (2)\FileToos\FileToos\bin\Debug\Sino.Dal.dll
+F:\新建文件夹 (2)\FileToos\FileToos\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\新建文件夹 (2)\FileToos\FileToos\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\新建文件夹 (2)\FileToos\FileToos\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+F:\新建文件夹 (2)\FileToos\FileToos\bin\Debug\office.dll
+F:\新建文件夹 (2)\FileToos\FileToos\bin\Debug\Sino.Bll.pdb
+F:\新建文件夹 (2)\FileToos\FileToos\bin\Debug\Sino.Common.pdb
+F:\新建文件夹 (2)\FileToos\FileToos\bin\Debug\Sino.Model.pdb
+F:\新建文件夹 (2)\FileToos\FileToos\bin\Debug\Sino.Dal.pdb
+F:\新建文件夹 (2)\FileToos\FileToos\obj\x86\Debug\FileTools.csprojResolveAssemblyReference.cache
+F:\新建文件夹 (2)\FileToos\FileToos\obj\x86\Debug\FileToos.BaseForm.resources
+F:\新建文件夹 (2)\FileToos\FileToos\obj\x86\Debug\FileToos.BaseIndex.resources
+F:\新建文件夹 (2)\FileToos\FileToos\obj\x86\Debug\FileToos.FormLogin.resources
+F:\新建文件夹 (2)\FileToos\FileToos\obj\x86\Debug\FileTools.Formtest.resources
+F:\新建文件夹 (2)\FileToos\FileToos\obj\x86\Debug\FileTools.Properties.Resources.resources
+F:\新建文件夹 (2)\FileToos\FileToos\obj\x86\Debug\FileTools.csproj.GenerateResource.Cache
+F:\DataManager\FileToos\FileToos\bin\Debug\FileTools.exe.config
+F:\DataManager\FileToos\FileToos\obj\x86\Debug\FileTools.csproj.ResolveComReference.cache
+F:\DataManager\FileToos\FileToos\obj\x86\Debug\FileTools.exe
+F:\DataManager\FileToos\FileToos\obj\x86\Debug\FileTools.pdb
+F:\DataManager\FileToos\FileToos\bin\Debug\FileTools.exe
+F:\DataManager\FileToos\FileToos\bin\Debug\FileTools.pdb
+F:\DataManager\FileToos\FileToos\bin\Debug\IrisSkin4.dll
+F:\DataManager\FileToos\FileToos\bin\Debug\ProgressODoom.dll
+F:\DataManager\FileToos\FileToos\bin\Debug\Sino.Bll.dll
+F:\DataManager\FileToos\FileToos\bin\Debug\Sino.Common.dll
+F:\DataManager\FileToos\FileToos\bin\Debug\Sino.Model.dll
+F:\DataManager\FileToos\FileToos\bin\Debug\Sino.Dal.dll
+F:\DataManager\FileToos\FileToos\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\DataManager\FileToos\FileToos\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\DataManager\FileToos\FileToos\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+F:\DataManager\FileToos\FileToos\bin\Debug\office.dll
+F:\DataManager\FileToos\FileToos\bin\Debug\Sino.Bll.pdb
+F:\DataManager\FileToos\FileToos\bin\Debug\Sino.Common.pdb
+F:\DataManager\FileToos\FileToos\bin\Debug\Sino.Model.pdb
+F:\DataManager\FileToos\FileToos\bin\Debug\Sino.Dal.pdb
+F:\DataManager\FileToos\FileToos\obj\x86\Debug\FileTools.csprojResolveAssemblyReference.cache
+F:\DataManager\FileToos\FileToos\obj\x86\Debug\FileToos.BaseForm.resources
+F:\DataManager\FileToos\FileToos\obj\x86\Debug\FileToos.BaseIndex.resources
+F:\DataManager\FileToos\FileToos\obj\x86\Debug\FileToos.FormLogin.resources
+F:\DataManager\FileToos\FileToos\obj\x86\Debug\FileTools.Formtest.resources
+F:\DataManager\FileToos\FileToos\obj\x86\Debug\FileTools.Properties.Resources.resources
+F:\DataManager\FileToos\FileToos\obj\x86\Debug\FileTools.csproj.GenerateResource.Cache
+E:\DataManager\FileToos\FileToos\bin\Debug\FileTools.exe.config
+E:\DataManager\FileToos\FileToos\bin\Debug\FileTools.exe
+E:\DataManager\FileToos\FileToos\bin\Debug\FileTools.pdb
+E:\DataManager\FileToos\FileToos\bin\Debug\IrisSkin4.dll
+E:\DataManager\FileToos\FileToos\bin\Debug\ProgressODoom.dll
+E:\DataManager\FileToos\FileToos\bin\Debug\Sino.Bll.dll
+E:\DataManager\FileToos\FileToos\bin\Debug\Sino.Common.dll
+E:\DataManager\FileToos\FileToos\bin\Debug\Sino.Model.dll
+E:\DataManager\FileToos\FileToos\bin\Debug\Sino.Dal.dll
+E:\DataManager\FileToos\FileToos\bin\Debug\Sino.Bll.pdb
+E:\DataManager\FileToos\FileToos\bin\Debug\Sino.Common.pdb
+E:\DataManager\FileToos\FileToos\bin\Debug\Sino.Model.pdb
+E:\DataManager\FileToos\FileToos\bin\Debug\Sino.Dal.pdb
+E:\DataManager\FileToos\FileToos\obj\x86\Debug\FileTools.csprojResolveAssemblyReference.cache
+E:\DataManager\FileToos\FileToos\obj\x86\Debug\FileTools.csproj.ResolveComReference.cache
+E:\DataManager\FileToos\FileToos\obj\x86\Debug\FileToos.BaseForm.resources
+E:\DataManager\FileToos\FileToos\obj\x86\Debug\FileToos.BaseIndex.resources
+E:\DataManager\FileToos\FileToos\obj\x86\Debug\FileToos.FormLogin.resources
+E:\DataManager\FileToos\FileToos\obj\x86\Debug\FileTools.Formtest.resources
+E:\DataManager\FileToos\FileToos\obj\x86\Debug\FileTools.Properties.Resources.resources
+E:\DataManager\FileToos\FileToos\obj\x86\Debug\FileTools.csproj.GenerateResource.Cache
+E:\DataManager\FileToos\FileToos\obj\x86\Debug\FileTools.exe
+E:\DataManager\FileToos\FileToos\obj\x86\Debug\FileTools.pdb
+E:\DataManager\FileToos备份\FileToos\bin\Debug\FileTools.exe.config
+E:\DataManager\FileToos备份\FileToos\obj\x86\Debug\FileTools.csproj.ResolveComReference.cache
+E:\DataManager\FileToos备份\FileToos\obj\x86\Debug\FileTools.exe
+E:\DataManager\FileToos备份\FileToos\obj\x86\Debug\FileTools.pdb
+E:\DataManager\FileToos备份\FileToos\bin\Debug\FileTools.exe
+E:\DataManager\FileToos备份\FileToos\bin\Debug\FileTools.pdb
+E:\DataManager\FileToos备份\FileToos\bin\Debug\IrisSkin4.dll
+E:\DataManager\FileToos备份\FileToos\bin\Debug\ProgressODoom.dll
+E:\DataManager\FileToos备份\FileToos\bin\Debug\Sino.Bll.dll
+E:\DataManager\FileToos备份\FileToos\bin\Debug\Sino.Common.dll
+E:\DataManager\FileToos备份\FileToos\bin\Debug\Sino.Model.dll
+E:\DataManager\FileToos备份\FileToos\bin\Debug\Sino.Dal.dll
+E:\DataManager\FileToos备份\FileToos\bin\Debug\Sino.Bll.pdb
+E:\DataManager\FileToos备份\FileToos\bin\Debug\Sino.Common.pdb
+E:\DataManager\FileToos备份\FileToos\bin\Debug\Sino.Model.pdb
+E:\DataManager\FileToos备份\FileToos\bin\Debug\Sino.Dal.pdb
+E:\DataManager\FileToos备份\FileToos\obj\x86\Debug\FileTools.csprojResolveAssemblyReference.cache
+E:\DataManager\FileToos备份\FileToos\obj\x86\Debug\FileToos.BaseForm.resources
+E:\DataManager\FileToos备份\FileToos\obj\x86\Debug\FileToos.BaseIndex.resources
+E:\DataManager\FileToos备份\FileToos\obj\x86\Debug\FileToos.FormLogin.resources
+E:\DataManager\FileToos备份\FileToos\obj\x86\Debug\FileTools.Formtest.resources
+E:\DataManager\FileToos备份\FileToos\obj\x86\Debug\FileTools.Properties.Resources.resources
+E:\DataManager\FileToos备份\FileToos\obj\x86\Debug\FileTools.csproj.GenerateResource.Cache
+D:\FileToos最新\FileToos\bin\Debug\FileTools.exe.config
+D:\FileToos最新\FileToos\bin\Debug\FileTools.exe
+D:\FileToos最新\FileToos\bin\Debug\FileTools.pdb
+D:\FileToos最新\FileToos\bin\Debug\IrisSkin4.dll
+D:\FileToos最新\FileToos\bin\Debug\ProgressODoom.dll
+D:\FileToos最新\FileToos\bin\Debug\Sino.Bll.dll
+D:\FileToos最新\FileToos\bin\Debug\Sino.Common.dll
+D:\FileToos最新\FileToos\bin\Debug\Sino.Model.dll
+D:\FileToos最新\FileToos\bin\Debug\Sino.Dal.dll
+D:\FileToos最新\FileToos\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\FileToos最新\FileToos\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\FileToos最新\FileToos\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+D:\FileToos最新\FileToos\bin\Debug\office.dll
+D:\FileToos最新\FileToos\bin\Debug\stdole.dll
+D:\FileToos最新\FileToos\bin\Debug\Sino.Bll.pdb
+D:\FileToos最新\FileToos\bin\Debug\Sino.Common.pdb
+D:\FileToos最新\FileToos\bin\Debug\Sino.Model.pdb
+D:\FileToos最新\FileToos\bin\Debug\Sino.Dal.pdb
+D:\FileToos最新\FileToos\obj\x86\Debug\FileTools.csprojResolveAssemblyReference.cache
+D:\FileToos最新\FileToos\obj\x86\Debug\FileTools.csproj.ResolveComReference.cache
+D:\FileToos最新\FileToos\obj\x86\Debug\FileTools.Properties.Resources.resources
+D:\FileToos最新\FileToos\obj\x86\Debug\FileTools.csproj.GenerateResource.Cache
+D:\FileToos最新\FileToos\obj\x86\Debug\FileTools.csproj.CoreCompileInputs.cache
+D:\FileToos最新\FileToos\obj\x86\Debug\FileTools.exe
+D:\FileToos最新\FileToos\obj\x86\Debug\FileTools.pdb
+D:\FileToos最新\FileToos\obj\x86\Debug\FileTools.UploadForm.resources
+D:\FileToos最新\FileToos\obj\x86\Debug\FileTools.Login.resources
+D:\20171123\FileToos最新\FileToos\bin\Debug\FileTools.exe.config
+D:\20171123\FileToos最新\FileToos\obj\x86\Debug\FileTools.csproj.ResolveComReference.cache
+D:\20171123\FileToos最新\FileToos\obj\x86\Debug\FileTools.exe
+D:\20171123\FileToos最新\FileToos\obj\x86\Debug\FileTools.pdb
+D:\20171123\FileToos最新\FileToos\bin\Debug\FileTools.exe
+D:\20171123\FileToos最新\FileToos\bin\Debug\FileTools.pdb
+D:\20171123\FileToos最新\FileToos\bin\Debug\IrisSkin4.dll
+D:\20171123\FileToos最新\FileToos\bin\Debug\ProgressODoom.dll
+D:\20171123\FileToos最新\FileToos\bin\Debug\Sino.Bll.dll
+D:\20171123\FileToos最新\FileToos\bin\Debug\Sino.Common.dll
+D:\20171123\FileToos最新\FileToos\bin\Debug\Sino.Model.dll
+D:\20171123\FileToos最新\FileToos\bin\Debug\Sino.Dal.dll
+D:\20171123\FileToos最新\FileToos\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\20171123\FileToos最新\FileToos\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\20171123\FileToos最新\FileToos\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+D:\20171123\FileToos最新\FileToos\bin\Debug\office.dll
+D:\20171123\FileToos最新\FileToos\bin\Debug\Sino.Bll.pdb
+D:\20171123\FileToos最新\FileToos\bin\Debug\Sino.Common.pdb
+D:\20171123\FileToos最新\FileToos\bin\Debug\Sino.Model.pdb
+D:\20171123\FileToos最新\FileToos\bin\Debug\Sino.Dal.pdb
+D:\20171123\FileToos最新\FileToos\obj\x86\Debug\FileTools.csprojResolveAssemblyReference.cache
+D:\20171123\FileToos最新\FileToos\obj\x86\Debug\FileTools.Login.resources
+D:\20171123\FileToos最新\FileToos\obj\x86\Debug\FileTools.Properties.Resources.resources
+D:\20171123\FileToos最新\FileToos\obj\x86\Debug\FileTools.UploadForm.resources
+D:\20171123\FileToos最新\FileToos\obj\x86\Debug\FileTools.csproj.GenerateResource.Cache

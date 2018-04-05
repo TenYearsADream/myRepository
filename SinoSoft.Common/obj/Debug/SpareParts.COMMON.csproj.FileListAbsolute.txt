@@ -1,0 +1,5 @@
+D:\Projects\质量备件\SparePartsControl\SpareParts.COMMON\bin\Debug\SpareParts.COMMON.dll
+D:\Projects\质量备件\SparePartsControl\SpareParts.COMMON\bin\Debug\SpareParts.COMMON.pdb
+D:\Projects\质量备件\SparePartsControl\SpareParts.COMMON\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\质量备件\SparePartsControl\SpareParts.COMMON\obj\Debug\SpareParts.COMMON.dll
+D:\Projects\质量备件\SparePartsControl\SpareParts.COMMON\obj\Debug\SpareParts.COMMON.pdb

@@ -1,0 +1,5 @@
+D:\Module\FileToos\SinoSoft.Utils\obj\Debug\ResolveAssemblyReference.cache
+D:\Module\FileToos\SinoSoft.Utils\bin\Debug\SinoSoft.Utils.dll
+D:\Module\FileToos\SinoSoft.Utils\bin\Debug\SinoSoft.Utils.pdb
+D:\Module\FileToos\SinoSoft.Utils\obj\Debug\SinoSoft.Utils.dll
+D:\Module\FileToos\SinoSoft.Utils\obj\Debug\SinoSoft.Utils.pdb

@@ -1,0 +1,57 @@
+D:\Module\FileToos\Sino.Common\bin\Debug\Sino.Common.dll
+D:\Module\FileToos\Sino.Common\bin\Debug\Sino.Common.pdb
+D:\Module\FileToos\Sino.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Module\FileToos\Sino.Common\obj\Debug\Sino.Common.dll
+D:\Module\FileToos\Sino.Common\obj\Debug\Sino.Common.pdb
+D:\Module\FileToos\Sino.Common\obj\Debug\Sino.Common.csproj.ResolveComReference.cache
+E:\project\FileToos\Sino.Common\obj\Debug\Sino.Common.csprojResolveAssemblyReference.cache
+E:\project\FileToos\Sino.Common\obj\Debug\Sino.Common.dll
+E:\project\FileToos\Sino.Common\obj\Debug\Sino.Common.pdb
+E:\project\FileToos\Sino.Common\obj\Debug\Interop.LCC11.dll
+E:\project\FileToos\Sino.Common\obj\Debug\Interop.Office.dll
+E:\project\FileToos\Sino.Common\obj\Debug\Sino.Common.csproj.ResolveComReference.cache
+D:\FileToos\Sino.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\FileToos\Sino.Common\bin\Debug\Sino.Common.dll
+D:\FileToos\Sino.Common\bin\Debug\Sino.Common.pdb
+D:\FileToos\Sino.Common\obj\Debug\Sino.Common.csproj.ResolveComReference.cache
+D:\FileToos\Sino.Common\obj\Debug\Sino.Common.dll
+D:\FileToos\Sino.Common\obj\Debug\Sino.Common.pdb
+D:\project\FileToos\Sino.Common\obj\Debug\Sino.Common.dll
+D:\project\FileToos\Sino.Common\obj\Debug\Sino.Common.pdb
+D:\project\FileToos\Sino.Common\bin\Debug\Sino.Common.dll
+D:\project\FileToos\Sino.Common\bin\Debug\Sino.Common.pdb
+D:\project\FileToos\Sino.Common\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\project\FileToos\Sino.Common\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+D:\project\FileToos\Sino.Common\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\project\FileToos\Sino.Common\bin\Debug\office.dll
+D:\project\FileToos\Sino.Common\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\project\FileToos\Sino.Common\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\project\FileToos\Sino.Common\bin\Debug\office.xml
+D:\project\FileToos\Sino.Common\obj\Debug\Sino.Common.csproj.ResolveComReference.cache
+D:\project\FileToos\Sino.Common\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\project\FileToos\Sino.Common\obj\Debug\Sino.Common.csprojResolveAssemblyReference.cache
+F:\新建文件夹 (2)\FileToos\Sino.Common\obj\Debug\Sino.Common.dll
+F:\新建文件夹 (2)\FileToos\Sino.Common\obj\Debug\Sino.Common.pdb
+F:\新建文件夹 (2)\FileToos\Sino.Common\bin\Debug\Sino.Common.dll
+F:\新建文件夹 (2)\FileToos\Sino.Common\bin\Debug\Sino.Common.pdb
+F:\新建文件夹 (2)\FileToos\Sino.Common\obj\Debug\Sino.Common.csproj.ResolveComReference.cache
+E:\DataManager\FileToos\Sino.Common\bin\Debug\Sino.Common.dll
+E:\DataManager\FileToos\Sino.Common\bin\Debug\Sino.Common.pdb
+E:\DataManager\FileToos\Sino.Common\obj\Debug\Sino.Common.csproj.ResolveComReference.cache
+E:\DataManager\FileToos\Sino.Common\obj\Debug\Sino.Common.dll
+E:\DataManager\FileToos\Sino.Common\obj\Debug\Sino.Common.pdb
+E:\DataManager\FileToos\Sino.Common\obj\Debug\Sino.Common.csprojResolveAssemblyReference.cache
+E:\DataManager\FileToos备份\Sino.Common\obj\Debug\Sino.Common.csprojResolveAssemblyReference.cache
+E:\DataManager\FileToos备份\Sino.Common\obj\Debug\Sino.Common.csproj.ResolveComReference.cache
+E:\DataManager\FileToos备份\Sino.Common\obj\Debug\Sino.Common.dll
+E:\DataManager\FileToos备份\Sino.Common\obj\Debug\Sino.Common.pdb
+E:\DataManager\FileToos备份\Sino.Common\bin\Debug\Sino.Common.dll
+E:\DataManager\FileToos备份\Sino.Common\bin\Debug\Sino.Common.pdb
+D:\FileToos最新\Sino.Common\obj\Debug\Sino.Common.csprojResolveAssemblyReference.cache
+D:\FileToos最新\Sino.Common\obj\Debug\Sino.Common.csproj.ResolveComReference.cache
+D:\FileToos最新\Sino.Common\obj\Debug\Sino.Common.csproj.CoreCompileInputs.cache
+D:\FileToos最新\Sino.Common\obj\Debug\Sino.Common.dll
+D:\FileToos最新\Sino.Common\obj\Debug\Sino.Common.pdb
+D:\FileToos最新\Sino.Common\bin\Debug\Sino.Common.dll
+D:\FileToos最新\Sino.Common\bin\Debug\Sino.Common.pdb
+D:\FileToos最新\Sino.Common\bin\Debug\stdole.dll

@@ -1,0 +1,13 @@
+D:\Module\FileToos\SinoSoft.DataControl\obj\Debug\ResolveAssemblyReference.cache
+D:\Module\FileToos\SinoSoft.DataControl\bin\Debug\SinoSoft.DataControl.dll
+D:\Module\FileToos\SinoSoft.DataControl\bin\Debug\SinoSoft.DataControl.pdb
+D:\Module\FileToos\SinoSoft.DataControl\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Module\FileToos\SinoSoft.DataControl\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Module\FileToos\SinoSoft.DataControl\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Module\FileToos\SinoSoft.DataControl\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Module\FileToos\SinoSoft.DataControl\bin\Debug\SinoSoft.Common.dll
+D:\Module\FileToos\SinoSoft.DataControl\bin\Debug\SinoSoft.Utils.dll
+D:\Module\FileToos\SinoSoft.DataControl\bin\Debug\SinoSoft.Common.pdb
+D:\Module\FileToos\SinoSoft.DataControl\bin\Debug\SinoSoft.Utils.pdb
+D:\Module\FileToos\SinoSoft.DataControl\obj\Debug\SinoSoft.DataControl.dll
+D:\Module\FileToos\SinoSoft.DataControl\obj\Debug\SinoSoft.DataControl.pdb

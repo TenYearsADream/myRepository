@@ -1,0 +1,73 @@
+D:\Module\FileToos\Sino.Bll\bin\Debug\Sino.Bll.dll
+D:\Module\FileToos\Sino.Bll\bin\Debug\Sino.Bll.pdb
+D:\Module\FileToos\Sino.Bll\bin\Debug\Sino.Dal.dll
+D:\Module\FileToos\Sino.Bll\bin\Debug\Sino.Model.dll
+D:\Module\FileToos\Sino.Bll\bin\Debug\Sino.Dal.pdb
+D:\Module\FileToos\Sino.Bll\bin\Debug\Sino.Model.pdb
+D:\Module\FileToos\Sino.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\Module\FileToos\Sino.Bll\obj\Debug\Sino.Bll.dll
+D:\Module\FileToos\Sino.Bll\obj\Debug\Sino.Bll.pdb
+E:\project\FileToos\Sino.Bll\bin\Debug\Sino.Bll.dll
+E:\project\FileToos\Sino.Bll\bin\Debug\Sino.Bll.pdb
+E:\project\FileToos\Sino.Bll\bin\Debug\Sino.Dal.dll
+E:\project\FileToos\Sino.Bll\bin\Debug\Sino.Model.dll
+E:\project\FileToos\Sino.Bll\bin\Debug\Sino.Dal.pdb
+E:\project\FileToos\Sino.Bll\bin\Debug\Sino.Model.pdb
+E:\project\FileToos\Sino.Bll\obj\Debug\Sino.Bll.csprojResolveAssemblyReference.cache
+E:\project\FileToos\Sino.Bll\obj\Debug\Sino.Bll.dll
+E:\project\FileToos\Sino.Bll\obj\Debug\Sino.Bll.pdb
+D:\FileToos\Sino.Bll\bin\Debug\Sino.Bll.dll
+D:\FileToos\Sino.Bll\bin\Debug\Sino.Bll.pdb
+D:\FileToos\Sino.Bll\bin\Debug\Sino.Dal.dll
+D:\FileToos\Sino.Bll\bin\Debug\Sino.Model.dll
+D:\FileToos\Sino.Bll\bin\Debug\Sino.Dal.pdb
+D:\FileToos\Sino.Bll\bin\Debug\Sino.Model.pdb
+D:\FileToos\Sino.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\FileToos\Sino.Bll\obj\Debug\Sino.Bll.dll
+D:\FileToos\Sino.Bll\obj\Debug\Sino.Bll.pdb
+D:\project\FileToos\Sino.Bll\bin\Debug\Sino.Bll.dll
+D:\project\FileToos\Sino.Bll\bin\Debug\Sino.Bll.pdb
+D:\project\FileToos\Sino.Bll\bin\Debug\Sino.Dal.dll
+D:\project\FileToos\Sino.Bll\bin\Debug\Sino.Model.dll
+D:\project\FileToos\Sino.Bll\bin\Debug\Sino.Dal.pdb
+D:\project\FileToos\Sino.Bll\bin\Debug\Sino.Model.pdb
+D:\project\FileToos\Sino.Bll\obj\Debug\Sino.Bll.dll
+D:\project\FileToos\Sino.Bll\obj\Debug\Sino.Bll.pdb
+D:\project\FileToos\Sino.Bll\obj\Debug\Sino.Bll.csprojResolveAssemblyReference.cache
+F:\新建文件夹 (2)\FileToos\Sino.Bll\bin\Debug\Sino.Bll.dll
+F:\新建文件夹 (2)\FileToos\Sino.Bll\bin\Debug\Sino.Bll.pdb
+F:\新建文件夹 (2)\FileToos\Sino.Bll\bin\Debug\Sino.Dal.dll
+F:\新建文件夹 (2)\FileToos\Sino.Bll\bin\Debug\Sino.Model.dll
+F:\新建文件夹 (2)\FileToos\Sino.Bll\bin\Debug\Sino.Dal.pdb
+F:\新建文件夹 (2)\FileToos\Sino.Bll\bin\Debug\Sino.Model.pdb
+F:\新建文件夹 (2)\FileToos\Sino.Bll\obj\Debug\Sino.Bll.csprojResolveAssemblyReference.cache
+F:\新建文件夹 (2)\FileToos\Sino.Bll\obj\Debug\Sino.Bll.dll
+F:\新建文件夹 (2)\FileToos\Sino.Bll\obj\Debug\Sino.Bll.pdb
+E:\DataManager\FileToos\Sino.Bll\bin\Debug\Sino.Bll.dll
+E:\DataManager\FileToos\Sino.Bll\bin\Debug\Sino.Bll.pdb
+E:\DataManager\FileToos\Sino.Bll\bin\Debug\Sino.Dal.dll
+E:\DataManager\FileToos\Sino.Bll\bin\Debug\Sino.Model.dll
+E:\DataManager\FileToos\Sino.Bll\bin\Debug\Sino.Dal.pdb
+E:\DataManager\FileToos\Sino.Bll\bin\Debug\Sino.Model.pdb
+E:\DataManager\FileToos\Sino.Bll\obj\Debug\Sino.Bll.csprojResolveAssemblyReference.cache
+E:\DataManager\FileToos\Sino.Bll\obj\Debug\Sino.Bll.dll
+E:\DataManager\FileToos\Sino.Bll\obj\Debug\Sino.Bll.pdb
+D:\FileToos最新\Sino.Bll\bin\Debug\Sino.Bll.dll
+D:\FileToos最新\Sino.Bll\bin\Debug\Sino.Bll.pdb
+D:\FileToos最新\Sino.Bll\bin\Debug\Sino.Dal.dll
+D:\FileToos最新\Sino.Bll\bin\Debug\Sino.Model.dll
+D:\FileToos最新\Sino.Bll\bin\Debug\Sino.Dal.pdb
+D:\FileToos最新\Sino.Bll\bin\Debug\Sino.Model.pdb
+D:\FileToos最新\Sino.Bll\obj\Debug\Sino.Bll.csprojResolveAssemblyReference.cache
+D:\FileToos最新\Sino.Bll\obj\Debug\Sino.Bll.csproj.CoreCompileInputs.cache
+D:\FileToos最新\Sino.Bll\obj\Debug\Sino.Bll.dll
+D:\FileToos最新\Sino.Bll\obj\Debug\Sino.Bll.pdb
+D:\20171123\FileToos最新\Sino.Bll\bin\Debug\Sino.Bll.dll
+D:\20171123\FileToos最新\Sino.Bll\bin\Debug\Sino.Bll.pdb
+D:\20171123\FileToos最新\Sino.Bll\bin\Debug\Sino.Dal.dll
+D:\20171123\FileToos最新\Sino.Bll\bin\Debug\Sino.Model.dll
+D:\20171123\FileToos最新\Sino.Bll\bin\Debug\Sino.Dal.pdb
+D:\20171123\FileToos最新\Sino.Bll\bin\Debug\Sino.Model.pdb
+D:\20171123\FileToos最新\Sino.Bll\obj\Debug\Sino.Bll.csprojResolveAssemblyReference.cache
+D:\20171123\FileToos最新\Sino.Bll\obj\Debug\Sino.Bll.dll
+D:\20171123\FileToos最新\Sino.Bll\obj\Debug\Sino.Bll.pdb

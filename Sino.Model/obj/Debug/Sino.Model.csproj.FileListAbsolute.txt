@@ -1,0 +1,37 @@
+D:\Module\FileToos\Sino.Model\bin\Debug\Sino.Model.dll
+D:\Module\FileToos\Sino.Model\bin\Debug\Sino.Model.pdb
+D:\Module\FileToos\Sino.Model\obj\Debug\ResolveAssemblyReference.cache
+D:\Module\FileToos\Sino.Model\obj\Debug\Sino.Model.dll
+D:\Module\FileToos\Sino.Model\obj\Debug\Sino.Model.pdb
+E:\project\FileToos\Sino.Model\bin\Debug\Sino.Model.dll
+E:\project\FileToos\Sino.Model\bin\Debug\Sino.Model.pdb
+E:\project\FileToos\Sino.Model\obj\Debug\Sino.Model.dll
+E:\project\FileToos\Sino.Model\obj\Debug\Sino.Model.pdb
+D:\FileToos\Sino.Model\bin\Debug\Sino.Model.dll
+D:\FileToos\Sino.Model\bin\Debug\Sino.Model.pdb
+D:\FileToos\Sino.Model\obj\Debug\ResolveAssemblyReference.cache
+D:\FileToos\Sino.Model\obj\Debug\Sino.Model.dll
+D:\FileToos\Sino.Model\obj\Debug\Sino.Model.pdb
+D:\project\FileToos\Sino.Model\bin\Debug\Sino.Model.dll
+D:\project\FileToos\Sino.Model\bin\Debug\Sino.Model.pdb
+D:\project\FileToos\Sino.Model\obj\Debug\Sino.Model.dll
+D:\project\FileToos\Sino.Model\obj\Debug\Sino.Model.pdb
+F:\新建文件夹 (2)\FileToos\Sino.Model\bin\Debug\Sino.Model.dll
+F:\新建文件夹 (2)\FileToos\Sino.Model\bin\Debug\Sino.Model.pdb
+F:\新建文件夹 (2)\FileToos\Sino.Model\obj\Debug\Sino.Model.dll
+F:\新建文件夹 (2)\FileToos\Sino.Model\obj\Debug\Sino.Model.pdb
+E:\DataManager\FileToos\Sino.Model\bin\Debug\Sino.Model.dll
+E:\DataManager\FileToos\Sino.Model\bin\Debug\Sino.Model.pdb
+E:\DataManager\FileToos\Sino.Model\obj\Debug\Sino.Model.dll
+E:\DataManager\FileToos\Sino.Model\obj\Debug\Sino.Model.pdb
+E:\DataManager\FileToos\Sino.Model\obj\Debug\Sino.Model.csprojResolveAssemblyReference.cache
+D:\FileToos最新\Sino.Model\bin\Debug\Sino.Model.dll
+D:\FileToos最新\Sino.Model\bin\Debug\Sino.Model.pdb
+D:\FileToos最新\Sino.Model\obj\Debug\Sino.Model.csproj.CoreCompileInputs.cache
+D:\FileToos最新\Sino.Model\obj\Debug\Sino.Model.dll
+D:\FileToos最新\Sino.Model\obj\Debug\Sino.Model.pdb
+D:\20171123\FileToos最新\Sino.Model\bin\Debug\Sino.Model.dll
+D:\20171123\FileToos最新\Sino.Model\bin\Debug\Sino.Model.pdb
+D:\20171123\FileToos最新\Sino.Model\obj\Debug\Sino.Model.csprojResolveAssemblyReference.cache
+D:\20171123\FileToos最新\Sino.Model\obj\Debug\Sino.Model.dll
+D:\20171123\FileToos最新\Sino.Model\obj\Debug\Sino.Model.pdb
